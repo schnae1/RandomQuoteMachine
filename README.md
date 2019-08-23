@@ -1,4 +1,4 @@
-# RandomQuoteMachine
+# Random Quote Machine
 
 This is a webpage that uses an API to display a new random quote every click of the button. 
 
